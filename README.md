@@ -10,9 +10,7 @@ I've had the opportunity to learn about more advanced topics such as:
 
 Along with that, I've also had hands on experience with various metrology related equipment including electron microscopes and dual-beams. 
 My time at the Electronics Prototyping Lab has vastly improved my mechatronics understanding that stems from:
-- Fixing
-- Calibrating
-- Improving various machines
+- Fixing, Calibrating, and Improving various machines
 - Assisting students with rapid prototyping using 3D printers, PCB mills, and other equipment.
 
 In addition to my technical skills, I am continually looking for ways to improve and innovate within my field. 
